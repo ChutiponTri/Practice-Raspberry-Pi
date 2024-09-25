@@ -1,0 +1,7 @@
+# On /homeassistant/configuration.yaml
+# Seems like unnecessary
+
+mqtt:
+  broker: core-mosquitto
+  username: tensai
+  password: tensai
